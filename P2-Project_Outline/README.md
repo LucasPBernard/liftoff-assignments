@@ -7,12 +7,17 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This app will take recipes and give shopping lists based on the ingredients
 ### Features
-Include Features here
+User login
+add, save, edit, view recipes
+create, edit, view grocery list
 ### Technologies
-Include Technologies here
+Java
+HTML
+CSS
+SQL
 ### What I'll Have to Learn
-Include what you will need to learn here
+to learn:
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/2xjX74Ua/grocery-cart
