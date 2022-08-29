@@ -13,6 +13,5 @@ https://github.com/LucasPBernard
 https://www.linkedin.com/in/lucas-bernard-9b0279241/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
+https://docs.google.com/document/d/1ugH8ACBq-hKvOrjLcNsXD8pqbA3f1539E96L4mlVTsQ/edit?usp=sharing
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
